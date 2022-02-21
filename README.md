@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Installation was by `yarn create react-app bird-dashboard --template typescript`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
